@@ -1,6 +1,7 @@
 # Bank Branch Sentiment Analysis Project 📊
 
-This project utilizes advanced data mining techniques to analyze customer sentiment towards bank branches. It relies on tools and technologies such as Apify, Airflow, BERT, PostgreSQL, and Power BI to collect, transform, store, and visualize data.
+This project aims to develop an automated sentiment analysis system for bank branches using data mining techniques. Our goal is to collect customer feedback to gain insights into their sentiments regarding banking services. The results of this sentiment analysis will provide valuable information to bank branches, allowing them to identify potential issues, enhance their customer service, and strengthen their competitive advantage. To achieve this, we rely on tools and technologies such as Apify, Airflow, BERT, PostgreSQL, and Power BI to collect, transform, store, and visualize data.
+
 
 ## Project Objectives 🎯
 
@@ -24,7 +25,7 @@ The project's architecture includes the following components:
 The project structure is as follows:
 - `extraction.py`: Script to extract data from online sources.
 - `transformation.py`: Script to clean and transform data.
-- `load.py`: Script to load data into PostgreSQL.
+- `loading.py`: Script to load data into PostgreSQL.
 - `airflow_dag.py`: The Python file defining the Airflow DAG (Directed Acyclic Graph) for task scheduling.
 
 ## How to Run the Project ⚙️
