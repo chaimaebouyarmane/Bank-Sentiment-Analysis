@@ -31,7 +31,7 @@ The project structure is as follows:
 ## How to Run the Project ⚙️
 
 1. Ensure you have the required Python dependencies installed (see `requirements.txt`).
-2. Configure the PostgreSQL connection parameters in `load.py`.
+2. Configure the PostgreSQL connection parameters in `loading.py`.
 3. Execute the Airflow DAG using `airflow_dag.py` to automate the process.
 
 ## Results and Visualization 📈
