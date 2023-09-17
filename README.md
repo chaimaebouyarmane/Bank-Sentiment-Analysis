@@ -43,6 +43,14 @@ Here are some examples of visualizations that we have created:
 <div align="center"> 
   <img src="https://github.com/chaimaebouyarmane/Bank-Sentiment-Analysis/blob/main/Img/1.PNG" alt="screenshot" />
 </div>
+
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/Bank-Sentiment-Analysis/blob/main/Img/2.PNG" alt="screenshot" />
+</div>
+
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/Bank-Sentiment-Analysis/blob/main/Img/3.PNG" alt="screenshot" />
+</div>
 ## Author and Contact 📧
 
 Author: [Your Name]
