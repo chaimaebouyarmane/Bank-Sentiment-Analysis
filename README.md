@@ -38,6 +38,11 @@ The project structure is as follows:
 
 The results of the sentiment analysis are stored in PostgreSQL. You can visualize this data using Power BI to gain valuable insights into customer sentiments towards bank branches.
 
+Here are some examples of visualizations that we have created: 
+
+<div align="center"> 
+  <img src="https://github.com/chaimaebouyarmane/Bank-Sentiment-Analysis/blob/main/Img/1.PNG" alt="screenshot" />
+</div>
 ## Author and Contact 📧
 
 Author: [Your Name]
