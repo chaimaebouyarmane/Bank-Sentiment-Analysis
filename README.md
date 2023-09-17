@@ -1,1 +1,49 @@
-# Bank-Sentiment-Analysis
+# Bank Branch Sentiment Analysis Project 📊
+
+This project utilizes advanced data mining techniques to analyze customer sentiment towards bank branches. It relies on tools and technologies such as Apify, Airflow, BERT, PostgreSQL, and Power BI to collect, transform, store, and visualize data.
+
+## Project Objectives 🎯
+
+The main objectives of this project are as follows:
+- Collect data from various sources.
+- Apply advanced sentiment analysis using BERT.
+- Store the results in a PostgreSQL database.
+- Visualize the data using Power BI.
+
+## Project Architecture 🏛️
+
+The project's architecture includes the following components:
+- **Apify**: Used for data extraction from online sources.
+- **Airflow**: Manages the scheduling and execution of data processing tasks.
+- **BERT**: A natural language processing (NLP) model for sentiment analysis.
+- **PostgreSQL**: The relational database where data is stored.
+- **Power BI**: Used for data visualization.
+
+## Project Structure 📂
+
+The project structure is as follows:
+- `extraction.py`: Script to extract data from online sources.
+- `transformation.py`: Script to clean and transform data.
+- `load.py`: Script to load data into PostgreSQL.
+- `airflow_dag.py`: The Python file defining the Airflow DAG (Directed Acyclic Graph) for task scheduling.
+
+## How to Run the Project ⚙️
+
+1. Ensure you have the required Python dependencies installed (see `requirements.txt`).
+2. Configure the PostgreSQL connection parameters in `load.py`.
+3. Execute the Airflow DAG using `airflow_dag.py` to automate the process.
+
+## Results and Visualization 📈
+
+The results of the sentiment analysis are stored in PostgreSQL. You can visualize this data using Power BI to gain valuable insights into customer sentiments towards bank branches.
+
+## Author and Contact 📧
+
+Author: [Your Name]
+Contact: [Your Email Address]
+
+Feel free to contribute, report issues, or ask questions.
+
+---
+
+✨ Leverage sentiment analysis to enhance customer experience, address issues, and stand out from the competition! ✨
