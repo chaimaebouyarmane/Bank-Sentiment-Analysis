@@ -51,12 +51,17 @@ Here are some examples of visualizations that we have created:
 <div align="center"> 
   <img src="https://github.com/chaimaebouyarmane/Bank-Sentiment-Analysis/blob/main/Img/3.PNG" alt="screenshot" />
 </div>
-## Author and Contact 📧
 
-Author: [Your Name]
-Contact: [Your Email Address]
+ ## Contact :busts_in_silhouette:
+Feel free to reach out to us if you have any questions or suggestions:
 
-Feel free to contribute, report issues, or ask questions.
+**Chaimae BOUYARMANE**
+
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+</a> 
+
 
 ---
 
